@@ -204,7 +204,7 @@ const Dashboard = () => {
       <div className=" min-h-screen w-[1000vw] bg-gradient-to-br from-indigo-50 to-white p-6">
         <div className="flex align-center text-center gap-6">
           {" "}
-          <h1 className="text-3xl font-bold mb-6">FinFlow Dashboard</h1>
+          <h1 className="text-3xl font-bold mb-6">Finlumen Dashboard</h1>
           <br />{" "}
           <h1 className="mt-2 font-bold">
             Hey {userData ? userData.name : ""}!
