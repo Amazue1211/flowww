@@ -65,7 +65,7 @@ function Loginpage() {
       }
 
       toast.success("User Login Successful");
-      navigate("/userdashboard");
+      navigate("/dashboard");
     } else {
       toast.error("Invalid Email or Password");
     }
